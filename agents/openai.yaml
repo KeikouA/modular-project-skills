@@ -1,0 +1,4 @@
+interface:
+  display_name: "按模块维护项目 Skill"
+  short_description: "为代码仓库建立 AGENTS.md 入口、模块路由和按变更回写的规则"
+  default_prompt: "使用 $modular-project-skills 为当前仓库建立 AGENTS.md、项目主 skill 和按实际业务划分的模块 skill。"
